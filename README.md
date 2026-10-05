@@ -11,5 +11,5 @@
 > **죄송합니다. 현재 이 프로젝트는 수정 및 개발 중에 있습니다. 나중에 다시 방문해 주세요... 👉👈**
 
 ---
-<align-right> Touch Warm from Developer ;
+<alignright> Touch Warm from Developer ;
 <p> M. Juffri Siregar
