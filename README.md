@@ -12,5 +12,4 @@
 
 ---
 Touch Warm from Developer ;
--
-M. Juffri Siregar
+<p> M. Juffri Siregar
